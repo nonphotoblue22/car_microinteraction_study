@@ -493,3 +493,25 @@ Custom Tomfooler-ey
     max-width: 320px;
     padding: 0 20px 20px 0;
 }
+
+.cd-content-block img#revision_wireframe {
+    display: block;
+    float: left;
+    max-width: 320px;
+    padding: 0 20px 20px 0;
+}
+
+.redesign_points {
+    width: 50%;
+    float: left;
+}
+
+.redesign_points #blue, .redesign_points #yellow {
+    width: 44px;
+    display: block;
+}
+
+.redesign_points #red, .redesign_points #touch {
+    width: 28px;
+    display: block;
+}
