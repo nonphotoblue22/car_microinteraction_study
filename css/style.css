@@ -198,6 +198,7 @@ Content block
   margin-bottom: 2em;
   line-height: 1.6;
   color: #85868d;
+  max-width: 620px;
 }
 
 .cd-content-block img {
@@ -465,4 +466,24 @@ Javascript disabled
   .no-js .block-navigation {
     display: none;
   }
+}
+
+
+/* ---------------------------------------------- 
+
+Custom Tomfooler-ey
+
+---------------------------------------------- */
+
+.cd-content-block img#batman_siri {
+    display: block;
+    float: left;
+    max-width: 420px;
+}
+
+.cd-content-block img#hunch_sketch {
+    display: block;
+    float: left;
+    max-width: 320px;
+    padding: 0 20px 20px 0;
 }
