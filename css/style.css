@@ -74,19 +74,31 @@ Images block
 }
 .cd-images-list > li {
   height: 250px;
-  background: #979c9c url(../img/img-1.jpg) no-repeat center center;
+  background: #979c9c url(../img/01_concept_bg.jpg) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li:nth-of-type(2) {
-  background: #343642 url(../img/img-2.jpg) no-repeat center center;
+  background: #343642 url(../img/02_ideation_bg.jpg) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li:nth-of-type(3) {
-  background: #982b3c url(../img/img-3.jpg) no-repeat center center;
+  background: #982b3c url(../img/03_development_bg.jpg) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li:nth-of-type(4) {
-  background: #338899 url(../img/img-4.jpg) no-repeat center center;
+  background: #338899 url(../img/04_prototyping_bg.jpg) no-repeat center center;
+  background-size: cover;
+}
+.cd-images-list > li:nth-of-type(5) {
+  background: #338899 url(../img/05_wireframes_bg.jpg) no-repeat center center;
+  background-size: cover;
+}
+.cd-images-list > li:nth-of-type(6) {
+  background: #338899 url(http://tubikstudio.com/wp-content/uploads/2015/12/sport_app_motion-ui.gif) no-repeat center center;
+  background-size: cover;
+}
+.cd-images-list > li:nth-of-type(7) {
+  background: #338899 url(../img/07_conclusion_bg.jpg) no-repeat center center;
   background-size: cover;
 }
 .cd-images-list > li > a {
