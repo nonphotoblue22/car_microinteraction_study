@@ -515,3 +515,7 @@ Custom Tomfooler-ey
     width: 28px;
     display: block;
 }
+
+.cd-content-block img.motion_screen {
+    max-width: 320px;
+}
